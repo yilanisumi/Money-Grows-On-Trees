@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Money Grows On Trees.CSharp.Plugins", "Money Grows On Trees.CSharp.Plugins.csproj", "{5929FBCD-0C1A-D2B2-EDF6-AC1A25C245F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Money Grows On Trees.CSharp", "Money Grows On Trees.CSharp.csproj", "{113C4048-B32F-D1C3-01D2-033112035921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Money Grows On Trees.CSharp.Editor.Plugins", "Money Grows On Trees.CSharp.Editor.Plugins.csproj", "{9D23195B-C041-BF16-0A77-5549CDC6C421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Money Grows On Trees.CSharp.Editor", "Money Grows On Trees.CSharp.Editor.csproj", "{01D13E52-1DEB-01E1-6E9D-156FA7C7037D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5929FBCD-0C1A-D2B2-EDF6-AC1A25C245F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5929FBCD-0C1A-D2B2-EDF6-AC1A25C245F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5929FBCD-0C1A-D2B2-EDF6-AC1A25C245F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5929FBCD-0C1A-D2B2-EDF6-AC1A25C245F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{113C4048-B32F-D1C3-01D2-033112035921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113C4048-B32F-D1C3-01D2-033112035921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113C4048-B32F-D1C3-01D2-033112035921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113C4048-B32F-D1C3-01D2-033112035921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D23195B-C041-BF16-0A77-5549CDC6C421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D23195B-C041-BF16-0A77-5549CDC6C421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D23195B-C041-BF16-0A77-5549CDC6C421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D23195B-C041-BF16-0A77-5549CDC6C421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01D13E52-1DEB-01E1-6E9D-156FA7C7037D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D13E52-1DEB-01E1-6E9D-156FA7C7037D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D13E52-1DEB-01E1-6E9D-156FA7C7037D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D13E52-1DEB-01E1-6E9D-156FA7C7037D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

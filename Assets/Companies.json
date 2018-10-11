@@ -1,0 +1,109 @@
+{
+  "Companies" : {
+
+    "Amazon" : {
+        "ticker" : "AMZN",
+        "name" : "Amazon",
+        "Stock_Price" : 525,
+        "Growth_Percent" : 27.8
+    },
+
+    "Apple" : {
+        "ticker" : "AAPL",
+        "name" : "Apple",
+        "Stock_Price": 95.54,
+        "Growth_Percent" : 16.1
+    },
+
+    "IBM" : {
+        "ticker" : "IBM",
+        "name" : "IBM",
+        "Stock_Price": 125.08,
+        "Growth_Percent" : 27.1
+    },
+
+    "Intel" : {
+        "ticker" : "INTC",
+        "name" : "Intel",
+        "Stock_Price": 29.13,
+        "Growth_Percent" : 15.6
+    },
+
+    "Microsoft" : {
+        "ticker" : "MSFT",
+        "name" : "Microsoft",
+        "Stock_Price": 52.10,
+        "Growth_Percent" : 12.1
+    },
+
+    "Yahoo" : {
+      "ticker" : "YHOO",
+      "name" : "Yahoo",
+      "Stock_Price": 27.91,
+      "Growth_Percent" : 31.8
+    },
+
+    "Netflix" : {
+      "ticker" : "NFLX",
+      "name" : "Netflix",
+      "Stock_Price": 89.5,
+      "Growth_Percent" : 1.8
+    },
+
+    "Chipotle" : {
+      "ticker" : "CMG",
+      "name" : "Chipotle",
+      "Stock_Price": 460.00,
+      "Growth_Percent" : -17
+      },
+
+    "Twitter" : {
+      "ticker" : "TWTR",
+      "name" : "Twitter",
+      "Stock_Price": 16.40,
+      "Growth_Percent" : 33.6
+    },
+
+    "Walmart" : {
+      "ticker" : "WMT",
+      "name" : "Walmart",
+      "Stock_Price": 65.76,
+      "Growth_Percent" : 0.77
+    },
+
+    "Facebook" : {
+      "ticker" : "FB",
+      "name" : "Facebook",
+      "Stock_Price": 111.80,
+      "Growth_Percent" : 11.2
+    },
+
+    "Pepsi" : {
+      "ticker" : "PEP",
+      "name" : "Pepsi",
+      "Stock_Price": 98.68,
+      "Growth_Percent" : 5.7
+    },
+
+    "Costco" : {
+      "ticker" : "COST",
+      "name" : "Costco",
+      "Stock_Price": 145.00,
+      "Growth_Percent" : 4.5
+    },
+
+    "Symantec" : {
+      "ticker" : "SYMC",
+      "name" : "Symantec",
+      "Stock_Price": 19.18,
+      "Growth_Percent" : 32.6
+    },
+
+    "Garmin" : {
+      "ticker" : "GRMN",
+      "name" : "Garmin",
+      "Stock_Price": 34.23,
+      "Growth_Percent" : 5.7
+    }
+  }
+}
